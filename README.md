@@ -1,2 +1,2 @@
 "# curly lamp" 
-Playing aroung with phaser 3
+Playing around with phaser 3
